@@ -164,6 +164,7 @@ return [
         Yajra\DataTables\DataTablesServiceProvider::class,
         Yajra\DataTables\ButtonsServiceProvider::class,
         Yajra\DataTables\HtmlServiceProvider::class,
+        InfyOm\GeneratorBuilder\GeneratorBuilderServiceProvider::class,
 
         /*
          * Package Service Providers...
